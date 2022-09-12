@@ -1,2 +1,2 @@
 # Python-101
-This is my first mini-project using Python. Yay!
+These are my first mini-projects using Python. Yay!
